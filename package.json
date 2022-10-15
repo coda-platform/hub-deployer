@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "axios": "^0.27.2",
+    "dotenv": "^16.0.3"
+  },
+  "name": "hub-deployer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "node ./deploy.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coda-platform/hub-deployer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/coda-platform/hub-deployer/issues"
+  },
+  "homepage": "https://github.com/coda-platform/hub-deployer#readme",
+  "description": ""
+}
