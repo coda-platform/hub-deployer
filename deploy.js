@@ -4,12 +4,32 @@ dotenv.config()
 
 const services = [
     {
+        name: 'auth-service-db',
+        url: 'https://github.com/coda-platform/auth-service-db'
+    },
+    {
+        name: 'auth-service',
+        url: 'https://github.com/coda-platform/auth-service'
+    },
+    {
+        name: 'hub-cache-db',
+        url: 'https://github.com/coda-platform/hub-cache-db'
+    },
+    {
+        name: 'hub-api',
+        url: 'https://github.com/coda-platform/hub-api'
+    },
+    {
         name: 'dashboard-api',
         url: 'https://github.com/coda-platform/dashboard-api'
     },
     {
         name: 'dashboard-app',
         url: 'https://github.com/coda-platform/dashboard-app'
+    },
+    {
+        name: 'notebook-app',
+        url: 'https://github.com/coda-platform/notebook-app'
     },
 ]
 
