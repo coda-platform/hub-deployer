@@ -9,7 +9,7 @@ const services = [
     },
     {
         name: 'auth-service',
-        url: 'https://github.com/louisfb01/auth-service-local'
+        url: 'https://github.com/louisfb01/auth-service'
     },
     {
         name: 'hub-cache-db',
