@@ -17,19 +17,19 @@ const services = [
     },
     {
         name: 'hub-api',
-        url: 'https://github.com/coda-platform/hub-api'
+        url: 'https://github.com/louisfb01/hub-api'
     },
     {
         name: 'dashboard-api',
-        url: 'https://github.com/coda-platform/dashboard-api'
+        url: 'https://github.com/louisfb01/dashboard-api'
     },
     {
         name: 'dashboard-app',
-        url: 'https://github.com/coda-platform/dashboard-app'
+        url: 'https://github.com/louisfb01/dashboard-app'
     },
     {
         name: 'notebook-app',
-        url: 'https://github.com/coda-platform/notebook-app'
+        url: 'https://github.com/louisfb01/notebook-app'
     },
 ]
 
