@@ -9,7 +9,7 @@ const services = [
     },
     {
         name: 'auth-service',
-        url: 'https://github.com/coda-platform/auth-service'
+        url: 'https://github.com/louisfb01/auth-service-local/tree/local-deployment'
     },
     {
         name: 'hub-cache-db',
