@@ -54,6 +54,7 @@ for (const service of services) {
         } else {
             console.error(`Error deploying ${service.name}: ${err.message}`)
         }
+        execSync(`rm -rf ${service.name}`, { stdio: 'inherit' })
     }
 
 }
